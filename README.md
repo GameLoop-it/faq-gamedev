@@ -29,12 +29,12 @@ e consigli utili, si spera.*
 
 > Da dove iniziare a imparare per lavorare effettivamente.
 
-Avere un portfolio aiuta a dimostrare le proprie competenze e attitudini
+Avere un portfolio aiuta a dimostrare le proprie competenze ed attitudini
 durante un processo di assunzione.
 
 A livello di competenze, dipende che tipo di percorso professionale avete in mente.  
 
-Per chi vuole approfondire gamplay programming, sicuramente un ottimo punto di inizio
+Per chi vuole approfondire gameplay programming, sicuramente un ottimo punto di inizio
 è il corso gratuito [CS50 Game Dev di Harvard](https://cs50.harvard.edu/games/2018/).  
 Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, 
 potete trovare tutte le info su 
@@ -44,7 +44,7 @@ del forum.
 #### Risorse consigliate
 
 - 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) 
-Marco Palombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
+Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
 studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola
 SAE ad Amsterdam e la sua prima offerta di lavoro.
 
