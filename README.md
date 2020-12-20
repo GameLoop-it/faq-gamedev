@@ -1,3 +1,11 @@
+Questa documento è ancora in via di scrittura, si tratta di uno sforzo collaborativo della community 
+di GameLoop.it.  
+L'idea di creare una FAQ è nata da 
+[questa](https://forum.gameloop.it/d/666-podcast-o-faq-per-chi-ha-dubbi-su-come-avvicinarsi-allindustria-gamedev) 
+discussione sul forum.
+
+**Indice**  
+
 - [Intro](#intro)
     - [1. Primi passi](#1-primi-passi)
   - [2. Industria](#2-industria)
@@ -11,8 +19,6 @@ Vuoi lavorare come sviluppatore di videogiochi ma non sai come cominciare?
 
 Qui troverai risorse utili riguardo i dubbi frequenti degli sviluppatori
 novizi.
-
-Questo documento è uno sforzo collaborativo della community di GameLoop.it.  
 
 ### 1. Primi passi
 
