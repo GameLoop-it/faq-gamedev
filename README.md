@@ -19,8 +19,8 @@ Questo documento è uno sforzo collaborativo della community di GameLoop.it.
 > Quando puoi considerarti pronto per iniziare a fare sul serio: dare le
 > dimissioni, aprire piva e partire con lo sviluppo fulltime.
 
-In questi spazi, immediatamente sotto le domande, andremo ad aggiungere risorse
-e consigli utili, si spera.
+*Nota di davcri: in questi spazi, immediatamente sotto le domande, andremo ad aggiungere risorse
+e consigli utili, si spera.*
 
 > Come trovare un buon team, e quanto questo settore possa essere complicato
 > per degli indie developer.
@@ -29,7 +29,24 @@ e consigli utili, si spera.
 
 > Da dove iniziare a imparare per lavorare effettivamente.
 
-Nota: possiamo linkare i momenti giusti del podcast con Marco di Pixion Games.
+Avere un portfolio aiuta a dimostrare le proprie competenze e attitudini
+durante un processo di assunzione.
+
+A livello di competenze, dipende che tipo di percorso professionale avete in mente.  
+
+Per chi vuole approfondire gamplay programming, sicuramente un ottimo punto di inizio
+è il corso gratuito [CS50 Game Dev di Harvard](https://cs50.harvard.edu/games/2018/).  
+Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, 
+potete trovare tutte le info su 
+[questo thread](https://forum.gameloop.it/d/449-gameloop50-seguiamo-il-cs50-insieme-impariamo-a-sviluppare-videogiochi/) 
+del forum.
+
+#### Risorse consigliate
+
+- 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) 
+Marco Palombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
+studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola
+SAE ad Amsterdam e la sua prima offerta di lavoro.
 
 
 ## 2. Industria
