@@ -54,16 +54,15 @@ Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, potete 
 
 - Sul forum di GameLoop, Emanuele "ManHunter" Manzione scrive un articolo per coloro che vogliono avvicinarsi alla game industry e farne un lavoro: trovate la versione in italiano [qui](https://forum.gameloop.it/d/648-voglio-creare-il-mio-videogioco-s-certo-bravo-ma) e la versione in inglese [qui](https://mhlab.tech/code/i-wanna-make-a-game/).
 - Sul forum di GameLoop, BrunoB scrive un [articolo per coloro che sono alla ricerca di collaborazioni](https://forum.gameloop.it/d/649-cerchiamo-collaboratori-per-il-nostro-videogioco-la-faq).
-- 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
-studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola SAE ad Amsterdam e la sua prima offerta di lavoro.
+- 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola SAE ad Amsterdam e la sua prima offerta di lavoro.
 
 ## 2. Industria
 
-> Sentendo altri mi è sembrato un settore molto influenzato dalle raccomandazioni, da persona esterna con nessuna esperienza di lavoro nell'ambito, come ci si entra?
+> Sentendo altri mi è sembrato un settore molto influenzato dalle raccomandazioni. Da persona esterna con nessuna esperienza di lavoro nell'ambito, come ci si entra?
 
 ...
 
-> Il dubbio più grande che ho è quello di come raggiungere gli standard richiesti dall'industria, non solo da autodidatta, ma anche mantenendo l'ago della bilancia orientato verso la creatività (che è diversa e originale da persona a persona), senza ricadere nella normalizzazione spersonalizzante che spesso viene richiesta, in nome di un alto livello produttivo, dal settore dell'intrattenimento digitale in generale (a mio parere).
+> Come raggiungo gli standard richiesti dall'industria? Non solo da autodidatta, ma anche mantenendo l'ago della bilancia orientato verso la creatività (che è diversa e originale da persona a persona), senza ricadere nella normalizzazione spersonalizzante che spesso viene richiesta, in nome di un alto livello produttivo, dal settore dell'intrattenimento digitale in generale (a mio parere).
 
 ...
 
@@ -73,11 +72,7 @@ studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla s
 
 ## 3. Sviluppo
 
-> Ricerca di fondi e di collaboratori
-
-...
-
-> Dove trovo persone per una startup?
+> Dove posso cercare fondi? Dove trovo collaboratori per formare una startup?
 
 ...
 
@@ -85,22 +80,21 @@ studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla s
 
 ...
 
-> Se esistono veramente delle realtà che investono e ti formano senza dover comunque lasciare il proprio territorio.
+> Esistono delle realtà che investono e ti formano senza dover lasciare l'Italia?
 
 ...
 
-> Quali rischi si corrono davvero, quanto puoi permetterti di
-fare alla kojima (fare quello che vuoi davvvero)?
+> Quali rischi si corrono davvero? Quanto puoi permetterti di fare alla Kojima (fare quello che vuoi)?
 
 ...
 
 ## 4. Lavoro
 
-> Il sapere se ci si può campare direttamente, non dico fare i big money che è un caso su 10milioni (tipo minecraft), ma tipo alzarci almeno 1,5k€ di guadagni netti al mese di media.
+> È possibile vivere di gamedev? Quali sono le cifre che bisogna aspettarsi (sia da indie, sia da dipendente)?
 
 ...
 
-> Quanto tempo ti può prendere lo sviluppo? Parliamo di 8hh/day o molto di più?
+> Quanto tempo ti può prendere lo sviluppo? Parliamo di 8h/day o di più?
 
 ...
 
@@ -114,7 +108,7 @@ fare alla kojima (fare quello che vuoi davvvero)?
 
 ...
 
-> Ho già un lavoro e alla mia età non posso permettermi di mollare tutto e iniziare una nuova carriera. Magari quando sarò in pensione.
+> Ho già un lavoro e alla mia età non posso permettermi di mollare tutto e iniziare una nuova carriera. C'è una strada consigliata per quelli come me?
 
 ...
 
@@ -122,21 +116,17 @@ fare alla kojima (fare quello che vuoi davvvero)?
 
 ...
 
-> La possibilità di guadagno da sviluppatore indipendente
+> Come dovrei iniziare se volessi aprire un'azienda in questo settore?
 
 ...
 
-> Se dovessi aprire un'azienda non saprei minimamente come iniziare, forse mi butterei a reclutare persone sui social network e lavorare online tramite video-riunioni e messaggi. L'azienda sarebbe aperta a tutto il mondo così da avere più possibilità di conoscere persone in gamba di altri paesi.
-
-...
-
-> Se invece dovessi unirmi ad un gruppo già formato, non opterei molto in alto ma piuttosto cercherei di capire come comportarmi all'interno di essa e in futuro cercare un lavoro ben pagato e soddisfacente.
+> Se dovessi collaborare con un gruppo già formato, cosa dovrei controllare per verificare la loro serietà? Cosa dovrei puntare ad ottenere?
 
 ...
 
 ## 5. Strumenti
 
-> Che tipologia di Game Engine utilizzare.
+> Che Game Engine dovrei utilizzare?
 
 Nota di davcri: aggiungerò qualcosa qui citando il corso di game creation del MIT.
 
