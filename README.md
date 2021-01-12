@@ -1,82 +1,73 @@
-Questa documento è ancora in via di scrittura, si tratta di uno sforzo collaborativo della community 
-di GameLoop.it.  
-L'idea di creare una FAQ è nata da 
-[questa](https://forum.gameloop.it/d/666-podcast-o-faq-per-chi-ha-dubbi-su-come-avvicinarsi-allindustria-gamedev) 
-discussione sul forum.
+# FAQ Gamedev by GameLoop.it
 
-**Indice**  
+Questa documento è ancora in via di scrittura, si tratta di uno sforzo collaborativo della community di GameLoop.it.
+L'idea di creare una FAQ è nata da [questa](https://forum.gameloop.it/d/666-podcast-o-faq-per-chi-ha-dubbi-su-come-avvicinarsi-allindustria-gamedev) discussione sul forum.
+
+## Indice
 
 - [Intro](#intro)
-    - [1. Primi passi](#1-primi-passi)
-  - [2. Industria](#2-industria)
-  - [3. Sviluppo](#3-sviluppo)
-  - [4. Lavoro](#4-lavoro)
-  - [5. Strumenti](#5-strumenti)
+- [1. Primi passi](#1-primi-passi)
+  - [1.1. Risorse consigliate](#11-risorse-consigliate)
+- [2. Industria](#2-industria)
+- [3. Sviluppo](#3-sviluppo)
+- [4. Lavoro](#4-lavoro)
+- [5. Strumenti](#5-strumenti)
 
-# Intro
+## Intro
 
-Vuoi lavorare come sviluppatore di videogiochi ma non sai come cominciare?  
+Vuoi lavorare come sviluppatore di videogiochi ma non sai come cominciare?
 
-Qui troverai risorse utili riguardo i dubbi frequenti degli sviluppatori
-novizi.
+Qui troverai risorse utili riguardo i dubbi frequenti degli sviluppatori novizi.
 
-### 1. Primi passi
+## 1. Primi passi
 
-> Quando puoi considerarti pronto per iniziare a fare sul serio: dare le
-> dimissioni, aprire piva e partire con lo sviluppo fulltime.
+> Quando puoi considerarti pronto per iniziare a fare sul serio? Quindi dare le dimissioni, aprire una partita iva e partire con lo sviluppo fulltime. Quanto è complicato questo settore per degli sviluppatori indie?
 
-*Nota di davcri: in questi spazi, immediatamente sotto le domande, andremo ad aggiungere risorse
-e consigli utili, si spera.*
+Questa domanda presuppone che tu sappia già cosa significhi realizzare un gioco e che tu voglia dedicartici a tempo pieno. Assumo che il gioco che vuoi realizzare sia fattibile e che tu non abbia risorse infinite: dare le dimissioni, aprire una partita iva, buttarsi anima e corpo su qualcosa avendo poche certezze è una buona ricetta per fallire e dover velocemente ripiegare su qualcos'altro.
 
-> Come trovare un buon team, e quanto questo settore possa essere complicato
-> per degli indie developer.
+L'approccio più sicuro è quello di realizzare prima il prodotto e poi pensare a come questo cambierà la tua situazione lavorativa (e finanziaria) attuale. L'organizzazione è la chiave.
+
+Con *realizzare il prodotto* mi riferisco al definire le sue meccaniche chiave e al pianificare il suo sviluppo, con annessi tempi e costi previsti. Comprendere quanto mercato potrà avere. Iniziare lo sviluppo di un MVP e comprendere se quello che hai immaginato è veramente divertente e funziona.
+Reitera finché non trovi la formula corretta per il tuo caso.
+
+Quando il tuo MVP sarà pronto e risponderà positivamente ai vari requisiti, davanti a te si aprono due strade:
+
+- __basso rischio__: continuare lo sviluppo nel tempo libero, senza rinunciare al tuo lavoro (e quindi ad una fonte sicura di introiti) finché il prodotto non ti permetterà di essere indipendente. Questa strada ti fornisce un margine di errore più ampio, ti permette di riprenderti dagli sbagli con più facilità, ma chiaramente i tempi si allungano e il carico di lavoro da sopportare è più oneroso.
+- __alto rischio__: se hai dei risparmi che vuoi investire per mantenerti durante lo sviluppo e sei convinto che ciò che stai facendo vale il rischio, è il momento di tuffarsi con tutte le scarpe nel tuo progetto. Ricorda che dovrai provare a rispettare la tua pianificazione iniziale (che va comunque adattata man mano che si acquisiscono maggiori informazioni) per tentare di non sforare con costi e tempi. I tempi si accorciano, ma hai un margine di errore molto piccolo e uno sbaglio potrebbe pregiudicare la riuscita della tua avventura.
+
+Come ultimo step: le tasse. Gli eventuali introiti derivanti dalla vendita del tuo prodotto andranno registrati e le modalità possono essere differenti a seconda della situazione. Ti consiglio vivamente di rivolgerti ad un commercialista per comprendere l'inquadramento che meglio si adatta alla tua specifica situazione.
+
+> Come trovare un buon team?
 
 ...
 
-> Da dove iniziare a imparare per lavorare effettivamente.
+> Voglio iniziare a lavorare in questo settore! Da dove inizio?
 
-Avere un portfolio aiuta a dimostrare le proprie competenze ed attitudini
-durante un processo di assunzione.
+Avere un portfolio aiuta a dimostrare le proprie competenze ed attitudini durante un processo di assunzione.
 
 A livello di competenze, dipende che tipo di percorso professionale avete in mente.  
 
-Per chi vuole approfondire gameplay programming, sicuramente un ottimo punto di inizio
-è il corso gratuito [CS50 Game Dev di Harvard](https://cs50.harvard.edu/games/2018/).  
-Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, 
-potete trovare tutte le info su 
-[questo thread](https://forum.gameloop.it/d/449-gameloop50-seguiamo-il-cs50-insieme-impariamo-a-sviluppare-videogiochi/) 
-del forum.
+Per chi vuole approfondire gameplay programming, sicuramente un ottimo punto di inizio è il corso gratuito [CS50 Game Dev di Harvard](https://cs50.harvard.edu/games/2018/).  
+Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, potete trovare tutte le info su [questo thread](https://forum.gameloop.it/d/449-gameloop50-seguiamo-il-cs50-insieme-impariamo-a-sviluppare-videogiochi/) del forum.
 
-#### Risorse consigliate
+### 1.1 Risorse consigliate
 
-- 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) 
-Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
-studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola
-SAE ad Amsterdam e la sua prima offerta di lavoro.
-
+- Sul forum di GameLoop, Emanuele "ManHunter" Manzione scrive un articolo per coloro che vogliono avvicinarsi alla game industry e farne un lavoro: trovate la versione in italiano [qui](https://forum.gameloop.it/d/648-voglio-creare-il-mio-videogioco-s-certo-bravo-ma) e la versione in inglese [qui](https://mhlab.tech/code/i-wanna-make-a-game/).
+- Sul forum di GameLoop, BrunoB scrive un [articolo per coloro che sono alla ricerca di collaborazioni](https://forum.gameloop.it/d/649-cerchiamo-collaboratori-per-il-nostro-videogioco-la-faq).
+- 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da
+studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola SAE ad Amsterdam e la sua prima offerta di lavoro.
 
 ## 2. Industria
 
-> Sentendo altri mi è sembrato un settore molto influenzato dalle
-raccomandazioni, da persona esterna con nessuna esperienza di lavoro 
-nell'ambito, come ci si entra?
+> Sentendo altri mi è sembrato un settore molto influenzato dalle raccomandazioni, da persona esterna con nessuna esperienza di lavoro nell'ambito, come ci si entra?
 
 ...
 
-> Il dubbio più grande che ho è quello di come raggiungere gli standard
-   richiesti dall'industria, non solo da autodidatta, ma anche mantenendo l'ago
-   della bilancia orientato verso la creatività (che è diversa e originale da
-   persona a persona), senza ricadere nella normalizzazione spersonalizzante che
-   spesso viene richiesta, in nome di un alto livello produttivo, dal settore
-   dell'intrattenimento digitale in generale (a mio parere).
+> Il dubbio più grande che ho è quello di come raggiungere gli standard richiesti dall'industria, non solo da autodidatta, ma anche mantenendo l'ago della bilancia orientato verso la creatività (che è diversa e originale da persona a persona), senza ricadere nella normalizzazione spersonalizzante che spesso viene richiesta, in nome di un alto livello produttivo, dal settore dell'intrattenimento digitale in generale (a mio parere).
 
 ...
 
-> *Il dubbio più grande è quello di poter lavorare in Italia, tuttavia ho anche
-   perplessità riguardanti le mie competenze dopo la laurea di Informatica (in
-   questo caso ultimo anno della triennale), successivamente continuerò gli
-   studi con una magistrale che mi aiuti in qualche modo nel settore (ma non
-   credo di trovarne una che mi specializzi in qualche strumento specifico)*
+> Il dubbio più grande è quello di poter lavorare in Italia, tuttavia ho anche perplessità riguardanti le mie competenze dopo la laurea di Informatica (in questo caso ultimo anno della triennale), successivamente continuerò gli studi con una magistrale che mi aiuti in qualche modo nel settore (ma non credo di trovarne una che mi specializzi in qualche strumento specifico)
 
 ...
 
@@ -90,15 +81,11 @@ nell'ambito, come ci si entra?
 
 ...
 
-> Le case di videogiochi in Italia sono sicuramente poche e le risorse per
-cominciare un progetto da zero sono esigue. Servirebbe una start up che
-lavori senza alcun introito e che sia disponibile ad investire con fondi
-personali.
+> Le case di videogiochi in Italia sono sicuramente poche e le risorse per cominciare un progetto da zero sono esigue. Servirebbe una start up che lavori senza alcun introito e che sia disponibile ad investire con fondi personali.
 
 ...
 
-> Se esistono veramente delle realtà che investono e ti formano senza dover
-> comunque lasciare il proprio territorio.
+> Se esistono veramente delle realtà che investono e ti formano senza dover comunque lasciare il proprio territorio.
 
 ...
 
@@ -109,9 +96,7 @@ fare alla kojima (fare quello che vuoi davvvero)?
 
 ## 4. Lavoro
 
->  Il sapere se ci si può campare direttamente, non dico fare i big money che è un
-caso su 10milioni (tipo minecraft), ma tipo alzarci almeno 1,5k€ di guadagni
-netti al mese di media.
+> Il sapere se ci si può campare direttamente, non dico fare i big money che è un caso su 10milioni (tipo minecraft), ma tipo alzarci almeno 1,5k€ di guadagni netti al mese di media.
 
 ...
 
@@ -119,7 +104,7 @@ netti al mese di media.
 
 ...
 
-> 1. Come approcciarmi alle Aziende; 
+> 1. Come approcciarmi alle Aziende;
 > 2. Come gestire il "mio team";
 > 3. Come dovrei comportarmi in generale.
 
@@ -129,15 +114,11 @@ netti al mese di media.
 
 ...
 
-> Ho già un lavoro e alla mia età non posso permettermi di mollare tutto e
-iniziare una nuova carriera. Magari quando sarò in pensione.
+> Ho già un lavoro e alla mia età non posso permettermi di mollare tutto e iniziare una nuova carriera. Magari quando sarò in pensione.
 
 ...
 
-> Credo che questo sia il punto più sconfortante e disorientante, 
-> per quanto mi riguarda. Bisogna avere un curriculum all'altezza 
-> e non so cosa studiare nello specifico e come poter dimostrare 
-> le competenze al meglio
+> Credo che questo sia il punto più sconfortante e disorientante, per quanto mi riguarda. Bisogna avere un curriculum all'altezza e non so cosa studiare nello specifico e come poter dimostrare le competenze al meglio
 
 ...
 
@@ -145,22 +126,18 @@ iniziare una nuova carriera. Magari quando sarò in pensione.
 
 ...
 
-> Se dovessi aprire un'azienda non saprei minimamente come iniziare, forse mi
-butterei a reclutare persone sui social network e lavorare online tramite
-video-riunioni e messaggi. L'azienda sarebbe aperta a tutto il mondo così da
-avere più possibilità di conoscere persone in gamba di altri paesi.
+> Se dovessi aprire un'azienda non saprei minimamente come iniziare, forse mi butterei a reclutare persone sui social network e lavorare online tramite video-riunioni e messaggi. L'azienda sarebbe aperta a tutto il mondo così da avere più possibilità di conoscere persone in gamba di altri paesi.
 
 ...
 
-> Se invece dovessi unirmi ad un gruppo già formato, non opterei molto in alto
-> ma piuttosto cercherei di capire come comportarmi all'interno di essa e in
-> futuro cercare un lavoro ben pagato e soddisfacente.
- 
+> Se invece dovessi unirmi ad un gruppo già formato, non opterei molto in alto ma piuttosto cercherei di capire come comportarmi all'interno di essa e in futuro cercare un lavoro ben pagato e soddisfacente.
+
+...
+
 ## 5. Strumenti
 
 > Che tipologia di Game Engine utilizzare.
 
-Nota di davcri: aggiungerò qualcosa qui citando il corso di game 
-creation del MIT.
+Nota di davcri: aggiungerò qualcosa qui citando il corso di game creation del MIT.
 
 ...
