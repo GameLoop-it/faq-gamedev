@@ -1,6 +1,6 @@
 # Gamedev FAQ by GameLoop.it
 
-Questa documento è ancora in via di scrittura, si tratta di uno sforzo collaborativo della community di GameLoop.it.
+Questo documento è ancora in via di scrittura, si tratta di uno sforzo collaborativo della community di GameLoop.it.
 L'idea di creare una FAQ è nata da [questa](https://forum.gameloop.it/d/666-podcast-o-faq-per-chi-ha-dubbi-su-come-avvicinarsi-allindustria-gamedev) discussione sul forum.
 
 ## Indice
