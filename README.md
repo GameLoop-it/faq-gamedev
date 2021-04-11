@@ -9,6 +9,7 @@ L'idea di creare una FAQ è nata da [questa](https://forum.gameloop.it/d/666-pod
 - [1. Primi passi](#1-primi-passi)
   - [1.1. Risorse consigliate](#11-risorse-consigliate)
 - [2. Industria](#2-industria)
+  - [2.1. Risorse consigliate](#21-risorse-consigliate)
 - [3. Sviluppo](#3-sviluppo)
 - [4. Lavoro](#4-lavoro)
 - [5. Strumenti](#5-strumenti)
@@ -60,15 +61,27 @@ Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, potete 
 
 > Sentendo altri mi è sembrato un settore molto influenzato dalle raccomandazioni. Da persona esterna con nessuna esperienza di lavoro nell'ambito, come ci si entra?
 
-...
+Trattandosi di un settore molto specialistico, dove cioè si richiedono spesso figure con molta esperienza in un campo ristretto, è facile che si ricorra al networking, ovvero ad un giro di conoscenze e raccomandazioni. Questo non significa per forza che sia difficile entrare nel settore di per sé, ma solamente che non è immediato diventare una figura ritenuta esperta in un determinato campo.
+Come scritto sopra, un portfolio può aiutare a dimostrare a quale campo specialistico si è interessati.
 
 > Come raggiungo gli standard richiesti dall'industria? Non solo da autodidatta, ma anche mantenendo l'ago della bilancia orientato verso la creatività (che è diversa e originale da persona a persona), senza ricadere nella normalizzazione spersonalizzante che spesso viene richiesta, in nome di un alto livello produttivo, dal settore dell'intrattenimento digitale in generale (a mio parere).
 
-...
+La spersonalizzazione derivante dall'alto livello di specializzazione può essere evitata puntando a studi di sviluppo meno massivi e più indipendenti, ovvero evitando quelli che generalmente si considerano studi AAA favorendo invece chi è al lavoro sui cosiddetti giochi "indie".
 
 > Il dubbio più grande è quello di poter lavorare in Italia, tuttavia ho anche perplessità riguardanti le mie competenze dopo la laurea di Informatica (in questo caso ultimo anno della triennale), successivamente continuerò gli studi con una magistrale che mi aiuti in qualche modo nel settore (ma non credo di trovarne una che mi specializzi in qualche strumento specifico)
 
-...
+Rimanere in Italia significa, per forza di cose, limitare la ricerca ad un sottoinsieme molto ristretto degli studi esistenti nel mondo. A questo proposito è possibile consultare le [risorse consigliate](#21-risorse-consigliate).
+
+Per quanto riguarda le competenze specifiche, considerando che tu voglia diventare un programmatore nell'industria, una laurea triennale in informatica o ingegneria informatica è ancora considerata come una delle scelte migliori. Ti permetterà di consolidare delle basi che ti torneranno utili nel campo dello sviluppo di videogiochi ma risulterà più spendibile anche in altri campi, a differenza di un corso più specifico.
+
+Per la magistrale potrai invece scegliere un indirizzo più professionalizzante, magari considerando anche le offerte formative presenti fuori dal nostro territorio nazionale.
+
+### 2.1 Risorse consigliate
+
+Alcune liste e mappe di studi in Italia possono essere consultate qui:
+- [gamedevmap](https://www.gamedevmap.com/index.php?type=&country=italy&Submit=Search) (è la risorsa più importante per cercare studi nel mondo)
+- [#GPI - Italian Game Developers](http://www.gameprog.it/)
+- [IPID Map](https://www.ipid.dev/en/map/)
 
 ## 3. Sviluppo
 
