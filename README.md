@@ -56,6 +56,7 @@ Un piccolo gruppo della community GameLoop ha seguito il corso nel 2018, potete 
 - Sul forum di GameLoop, Emanuele "ManHunter" Manzione scrive un articolo per coloro che vogliono avvicinarsi alla game industry e farne un lavoro: trovate la versione in italiano [qui](https://forum.gameloop.it/d/648-voglio-creare-il-mio-videogioco-s-certo-bravo-ma) e la versione in inglese [qui](https://mhlab.tech/code/i-wanna-make-a-game/).
 - Sul forum di GameLoop, BrunoB scrive un [articolo per coloro che sono alla ricerca di collaborazioni](https://forum.gameloop.it/d/649-cerchiamo-collaboratori-per-il-nostro-videogioco-la-faq).
 - 🎙 [Nell'episodio 42 del podcast](https://www.youtube.com/watch?v=LEm7Pv2R4a4&t=104s) Marco Colombo (Mediatonic, ex-Pixion Games) ha raccontato il suo intero percorso: da studente dell'ITIS, agli studi unversitari in Ingegneria Informatica fino alla scuola SAE ad Amsterdam e la sua prima offerta di lavoro.
+- Sul sito di GameLoop, BrunoB scrive un [articolo sulle scuole di videogiochi](https://gameloop.it/2018/07/30/scuole-di-videogiochi-come-evitare-le-fregature/) e su come evitare le fregature annesse.
 
 ## 2. Industria
 
@@ -66,7 +67,12 @@ Come scritto sopra, un portfolio può aiutare a dimostrare a quale campo special
 
 > Come raggiungo gli standard richiesti dall'industria? Non solo da autodidatta, ma anche mantenendo l'ago della bilancia orientato verso la creatività (che è diversa e originale da persona a persona), senza ricadere nella normalizzazione spersonalizzante che spesso viene richiesta, in nome di un alto livello produttivo, dal settore dell'intrattenimento digitale in generale (a mio parere).
 
-La spersonalizzazione derivante dall'alto livello di specializzazione può essere evitata puntando a studi di sviluppo meno massivi e più indipendenti, ovvero evitando quelli che generalmente si considerano studi AAA favorendo invece chi è al lavoro sui cosiddetti giochi "indie".
+La spersonalizzazione derivante dall'alto livello di specializzazione è un fenomeno piuttosto soggettivo. Per combatterlo bisognerebbe sforzarsi di raggiungere un sufficiente livello di coinvolgimento ed _ownership_ su quello che si svolge a lavoro.
+
+Ciò si traduce spesso nella percezione che le proprie decisioni ed il proprio lavoro abbiano un peso all'interno del progetto portato avanti con il resto del team.
+Raggiungere questo obiettivo in una grossa compagnia che lavora su giochi AAA può risultare più difficile e richiedere più tempo, ma molto dipende sia dalla cultura aziendale che dalle circostanze personali.
+
+Un punto di vista alternativo può essere ricercato all'interno di studi più piccoli ed indipendenti, dove spesso la specializzazione è minore ed il coinvolgimento è più ampio.
 
 > Il dubbio più grande è quello di poter lavorare in Italia, tuttavia ho anche perplessità riguardanti le mie competenze dopo la laurea di Informatica (in questo caso ultimo anno della triennale), successivamente continuerò gli studi con una magistrale che mi aiuti in qualche modo nel settore (ma non credo di trovarne una che mi specializzi in qualche strumento specifico)
 
@@ -75,6 +81,8 @@ Rimanere in Italia significa, per forza di cose, limitare la ricerca ad un sotto
 Per quanto riguarda le competenze specifiche, considerando che tu voglia diventare un programmatore nell'industria, una laurea triennale in informatica o ingegneria informatica è ancora considerata come una delle scelte migliori. Ti permetterà di consolidare delle basi che ti torneranno utili nel campo dello sviluppo di videogiochi ma risulterà più spendibile anche in altri campi, a differenza di un corso più specifico.
 
 Per la magistrale potrai invece scegliere un indirizzo più professionalizzante, magari considerando anche le offerte formative presenti fuori dal nostro territorio nazionale.
+
+Nel caso tu decidessi di frequentare un corso specifico poni la giusta attenzione sulla scelta di quello più adatto a te, magari leggendo prima questo [articolo](https://gameloop.it/2018/07/30/scuole-di-videogiochi-come-evitare-le-fregature/) di BrunoB su come evitare le fregature.
 
 ### 2.1 Risorse consigliate
 
